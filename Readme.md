@@ -2,4 +2,8 @@
 * * *
 - Sample Image
 
-![Animation](https://user-images.githubusercontent.com/95258497/152481731-e07962be-125e-4e24-80f6-271767cc44a2.gif)
+![Animation6](https://user-images.githubusercontent.com/95258497/152481980-096223be-4e8f-4f5a-9b81-4156c2274876.gif)
+
+
+- not implemented
+> - Game End Conditions
